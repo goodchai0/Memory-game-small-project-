@@ -1,0 +1,13 @@
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    height:300px;
+    width: 400px;
+}
+.write{
+    border:1px rgb(14, 10, 10);
+    justify-content: center;
+    /* text-align: center; */
+      
+}
+ 
